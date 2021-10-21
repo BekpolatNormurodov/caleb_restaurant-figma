@@ -1,2 +1,2 @@
 # caleb_restaurant-figma
-first really project in figma
+first really project in figma.com
